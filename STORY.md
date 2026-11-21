@@ -31,4 +31,4 @@ Because of those destructive parts, anyone wanting to study the visual effects, 
 - **Always-On Instant Kill-Switch (`Ctrl + Alt + Q`):** At any moment—during warnings, in the confirmation dialog, or while effects are running—pressing **`Ctrl + Alt + Q`** triggers an immediate abort, stops sound playback, requests a desktop redraw, and exits cleanly without harm.
 
 ## 5. Giving Credit Where It Belongs
-A good GitHub repository doesn't hide where the idea came from. The original MEMZ concept and codebase come from **Leurak** (in the **danooct1** *User Made Malware* ecosystem), while **`MEMZ-Safe`** is a non-destructive recreation and documentation effort maintained by **Racer** (`https://github.com/Just4Stickman`) for learning, visual experimentation, and safe sharing.
+A good GitHub repository doesn't hide where the idea came from. The original MEMZ concept and codebase come from **Leurak** (in the **danooct1** *User Made Malware* ecosystem), while **`MEMZ-Safe`** is a non-destructive recreation and documentation effort maintained by **Just4Stickman** (`https://github.com/Just4Stickman`) for learning, visual experimentation, and safe sharing.
